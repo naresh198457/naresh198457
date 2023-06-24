@@ -5,14 +5,15 @@
 <a href="https://www.linkedin.com/in/naresh-sampara-46875818/">
   <img align="left" alt="Naresh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
------------
+
 
 I'm, Naresh Sampara, a passionate self-taught data analyst who strives to pose and answer questions with quantitative-driven insight from the UK. Through work experience and the development of personal projects, I have learned the importance of having an iterative, hypothesis-oriented approach to analysis. I have a strong track record of computation skills, and analytical skills including predictive modelling, statistical analysis, data visualization, and project management. Excellent problem solver, team player, curious, patient and self-motivated. Troubleshoots technical problems through practical, theoretical and logical approaches.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 * any freelance work involving data analysis, or data science? do reach, [email](mailto:naresh.sampara@gmail.com)
-## Languages and tools
+* 💬 ask me about anything, i am happy to help;
 
+## Languages and tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
@@ -29,4 +30,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-## 
+
+
+📈 my Github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=naresh198457&show_icons=true&theme=gotham" alt="Naresh" />
