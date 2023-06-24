@@ -1,4 +1,12 @@
 # Naresh Sampara (PhD)
+<a href="https://www.instagram.com/dr.sampara/">
+  <img align="left" alt="Naresh's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/naresh-sampara-46875818/">
+  <img align="left" alt="Naresh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+-----------
+
 I'm, Naresh Sampara, a passionate self-taught data analyst who strives to pose and answer questions with quantitative-driven insight from the UK. Through work experience and the development of personal projects, I have learned the importance of having an iterative, hypothesis-oriented approach to analysis. I have a strong track record of computation skills, and analytical skills including predictive modelling, statistical analysis, data visualization, and project management. Excellent problem solver, team player, curious, patient and self-motivated. Troubleshoots technical problems through practical, theoretical and logical approaches.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
